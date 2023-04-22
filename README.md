@@ -9,9 +9,9 @@ The Endpoints , Project ID, Database ID , and Collection ID of appwrite are remo
 
 ## Link of Video Tutorial on Youtube
 
-- Part 1 : Link
-- Part 2 : Link
-- Part 3 : Link
+- Part 1 Installing Flutter and Setup :  ![Link](https://youtu.be/fQNni8qwlpQ)
+- Part 2 Authentication Using Appwrite : ![Link](https://youtu.be/BvYF1R0Q4Pg)
+- Part 3 Complete development of the App :  ![Link](https://youtu.be/MdDSwbYN-Dk)
 
 
 ## Preview 
